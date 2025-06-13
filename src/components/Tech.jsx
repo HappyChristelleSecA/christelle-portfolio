@@ -21,6 +21,7 @@ import {
 } from 'react-icons/fa';
 import { SiOracle, SiMongodb, SiFirebase, SiAgile, SiPostman } from 'react-icons/si';
 
+
 export default function Tech() {
   const tech = [
     { icon: <FaPython />,   name: 'Python' },
